@@ -734,7 +734,11 @@ ol {
     line-height: 17px;
 
     color: #ffffff;
-    width: 98px;
+    max-width: 98px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer__logo:hover {
@@ -905,5 +909,3 @@ ol {
 .none {
     display: none;
 }
-
-
