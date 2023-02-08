@@ -19,8 +19,7 @@ a {
     text-decoration: none;
 }
 
-ul,
-ol {
+ul {
     list-style: none;
 }
 
@@ -709,8 +708,6 @@ ol {
 }
 
 /* footer */
-.footer {
-}
 
 /* top */
 .footer__top {
